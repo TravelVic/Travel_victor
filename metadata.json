@@ -1,0 +1,8 @@
+{
+  "name": "Travel Victor - Elite AI Concierge",
+  "description": "A high-end, AI-powered luxury travel platform offering curated experiences and an intelligent concierge for the discerning traveler.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
