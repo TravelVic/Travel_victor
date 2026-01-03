@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
             <div className="w-full h-full border border-gray-100 flex flex-col items-center justify-center text-center overflow-hidden rounded-2xl p-4">
                <div className="relative w-20 h-20 flex items-center justify-center mb-4">
                   <div className="absolute inset-0 border-2 border-brand-blue rounded-full opacity-10 animate-ping" style={{borderColor: 'var(--brand-blue)'}} />
-                  <img src="/public/logo.png" alt="Victor Logo" className="w-16 h-16 object-contain relative z-10" />
+                  <img src="/images/logo.png" alt="Victor Logo" className="w-auto h-10 object-contain relative z-10" />
                </div>
                <p className="text-[8px] font-bold uppercase tracking-[0.3em] text-gray-400">Est. Srinagar</p>
                <p className="text-[7px] font-bold uppercase tracking-[0.1em] text-brand-orange mt-1">Barbarshah Headquarters</p>

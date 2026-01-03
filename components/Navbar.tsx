@@ -31,7 +31,7 @@ const Navbar: React.FC = () => {
         >
           <div className="relative w-10 h-10 md:w-12 md:h-12 flex items-center justify-center overflow-hidden">
             <img 
-              src="logo.png" 
+              src="/images/logo.png" 
               alt="Travel Victor Logo" 
               className="w-full h-full object-contain transition-transform duration-500 group-hover:scale-110"
             />
